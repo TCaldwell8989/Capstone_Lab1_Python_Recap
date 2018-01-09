@@ -2,7 +2,7 @@ import requests
 
 import os
 
-key = os.environ['omdb_key'] #1b1a8f2a
+key = os.environ['omdb_key']
 print (key)
 
 base_url = 'http://www.omdbapi.com/'
