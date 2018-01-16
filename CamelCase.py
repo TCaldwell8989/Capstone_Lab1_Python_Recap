@@ -1,3 +1,7 @@
+msg = "CAMELCASE GENERATOR PROGRAM"
+stars = '*' * len(msg)
+print('\n', stars, '\n', msg, '\n', stars, '\n')
+
 # Ask the user for a sentence
 # Initialize an empty string variable
 sentence = input("Enter a sentence: ")
