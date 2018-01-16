@@ -3,7 +3,7 @@ stars = '*' * len(msg)
 print('\n', stars, '\n', msg, '\n', stars, '\n')
 
 print('Your sentence will have its first word converted to lower case')
-print('The following words will have the first letter capitalized')
+print('Following words will have the first letter capitalized')
 
 # Ask the user for a sentence
 # Initialize an empty string variable
